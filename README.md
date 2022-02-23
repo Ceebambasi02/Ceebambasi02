@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Ceebambasi02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Ceebambasi02's github stats](https://github-readme-stats.vercel.app/api?username=Ceebambasi02&show_icons=true)
 
-<!---
-Ceebambasi02/Ceebambasi02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Ceebambasi02's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ceebambasi02)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceebambasi02&layout=compact&langs_count=12
